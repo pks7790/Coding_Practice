@@ -53,38 +53,6 @@ public class OddsOrEvens {
                 System.out.println("The computer wins!");
             }
         }
-
-        /* if (oddOrEven && oddsOrEvens.equals("E")){
-             System.out.println(name + " wins!");
-         } else {
-             System.out.println("The computer wins!");
-         }
-        System.exit(0);
-
-        if (!oddOrEven && oddsOrEvens.equals("O")){
-             System.out.println(name + " wins!");
-         } else {
-             System.out.println("The computer wins!");
-
-         } */
-
-        /* if(sum % 2 == 0 ) {
-            System.out.println( sum + " is ...even!");
-
-            if(numberChosen % 2 == 0)
-                System.out.println("That means " + name + " wins!");
-            else
-                System.out.println("That means computer wins!");
-        }
-        else{
-            System.out.println(sum + " is ...odd!");
-
-            if(numberChosen % 2 != 0)
-                System.out.println("That means " + name + " wins!");
-            else
-                System.out.println("That means computer wins!");
-*/
-
         System.out.println("-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_");
     }
 }

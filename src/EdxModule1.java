@@ -5,6 +5,7 @@ public class EdxModule1 {
 // int % int = remainder of dividing the numbers, useful for 24 hour format
 //This project lets the user input directly into the terminal using Scanner to caluclate various things the user will 
 // need to know when they go on vacation
+    //Completed October 29th, 2019
 
 public static void introScanner(){
     Scanner input = new Scanner(System.in);
@@ -55,13 +56,8 @@ public static void timeComparison(){
 
         System.out.print("That means when it is midnight at home it will be " + timeAdd + ":00 in your travel destination and when it is noon " +
                 "at home it will be " + timeSubtract + ":00 ");
-
-
-
 }
-
-
-
+    
 public static void main(String[] args){
 
     introScanner();
